@@ -6,7 +6,7 @@ public class Main  // Обьявляем основной класс
         Scanner in = new Scanner (System.in);
         System.out.println("Введите A:");//Прошу ввести первое число
         int a = in.nextInt(); //Передаем значение из систему переменной а
-        System.out.println("Введите B:");//Просим ввести второе число
+        System.out.println("Введите B:");//Прошу ввести второе число
         int b = in.nextInt(); //Передаем значение из системы переменной b
         in.close(); // Закрываем ввод данных
 
